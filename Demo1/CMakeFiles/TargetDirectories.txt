@@ -1,3 +1,0 @@
-/mnt/e/linux/study/Study-Cmake/CMakeFiles/edit_cache.dir
-/mnt/e/linux/study/Study-Cmake/CMakeFiles/rebuild_cache.dir
-/mnt/e/linux/study/Study-Cmake/CMakeFiles/Demo.dir
