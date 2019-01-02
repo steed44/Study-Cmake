@@ -6,3 +6,5 @@ project(Demo2)
 
 #指定生成的目标
 add_executable(Demo main.c MathFunctions.c)
+
+
